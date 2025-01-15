@@ -1,4 +1,5 @@
 # Arduino-Synthesizer
-/n Test1: a sample using a buzzer with buttons
-/n capacitive touch: using touch sensors instead of buttons
-/n CapacitiveSensor & KeyboardNotes: refined code using KEYBOARDnotes library
+<p>Test1: a sample using a buzzer with buttons
+<br>capacitive touch: using touch sensors instead of buttons
+<br>CapacitiveSensor & KeyboardNotes: refined code using KEYBOARDnotes library
+</p>
